@@ -1,0 +1,5 @@
+{
+  "name": "Remix ABC da Construção Itu - Gestão Comercial e Financeira",
+  "description": "Sistema de conferência e ajustes de vendas para consolidar dados de comissão, DRE e histórico mensal através da importação de planilhas oficiais.",
+  "requestFramePermissions": []
+}
